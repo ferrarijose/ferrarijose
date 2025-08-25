@@ -1,7 +1,7 @@
 Olá! Eu sou o José Luiz Ferrari
 
 
-- 🔭 Atualmente trabalhando como Analista Middleware T-systems
+- 🔭 Atualmente trabalhando como Analista Middleware na T-systems
 - 🌱 Fazendo faculdade de Ciências da Computação
 - 🌱 Fazendo curso do Kubedev que utiliza todas as ferramentas para DevOps
 - ⚡ Sou curioso e gosto de novos desafios!
